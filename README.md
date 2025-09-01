@@ -4,9 +4,6 @@ This project analyzes the spatial distribution, accessibility, and equity of pub
 
 - **District level** (Bezirk)
 - **Sub-district level** (Ortsteil)
-
-We focus on three main aspects of urban green space:
-
 ---
 
 ## 1. Park Availability
@@ -34,7 +31,7 @@ We focus on three main aspects of urban green space:
 **Objective:** Estimate how much of each area falls within an 800-meter walking distance to a park.
 
 - Parks are buffered by 800 meters.
-- We calculate what proportion of each area's surface is covered by these buffers.
+- Calculate what proportion of each area's surface is covered by these buffers.
 - Gives a measure of functional access to green spaces.
 
 ---
@@ -48,14 +45,12 @@ We focus on three main aspects of urban green space:
 
 ##  Key Findings
 
-This project analyzes the distribution, size, and accessibility of public parks across Berlin’s districts and sub-districts using 2024 population data.  
-It highlights spatial inequalities in green space availability and park access to inform urban planning.  
-Interactive maps and detailed reports are included to support decision-making for equitable park development.
+This project analyzes the distribution, size, and accessibility of public parks across Berlin’s districts and sub-districts using 2024 population data. It highlights spatial inequalities in green space availability and park access to inform urban planning.Interactive maps and detailed reports are included to support decision-making for equitable park development.
 
 
 ## Outputs
 
-- Interactive maps [Maps/berlin_park_map.html](Maps/berlin_park_map.html)
+- Interactive maps [Maps](Maps/berlin_park_map.html)
 - Full results summary: [results_summary.md](Results/report.md)
 
 
