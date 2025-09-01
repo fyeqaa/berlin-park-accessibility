@@ -50,7 +50,7 @@ This project analyzes the distribution, size, and accessibility of public parks 
 
 ## Outputs
 
-- Interactive maps [Maps](Maps.html)
+- Interactive maps [Maps](Maps)
 - Full results summary: [results_summary.md](Results/report.md)
 
 
