@@ -50,7 +50,9 @@ This project analyzes the distribution, size, and accessibility of public parks 
 
 ## Outputs
 
-- Interactive maps [Maps](Maps)
+- Interactive maps:
+- [Subdistrict map ](https://fyeqaa.github.io/berlin-park-accessibility/district_park_accessibility_map.html)
+- [District map](https://fyeqaa.github.io/berlin-park-accessibility/subdistrict_park_accessibility_map.html)
 - Full results summary: [results_summary.md](Results/report.md)
 
 
