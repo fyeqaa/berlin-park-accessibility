@@ -4,7 +4,6 @@ This project analyzes the spatial distribution, accessibility, and equity of pub
 
 - **District level** (Bezirk)
 - **Sub-district level** (Ortsteil)
----
 
 ## 1. Park Availability
 
@@ -14,8 +13,6 @@ This project analyzes the spatial distribution, accessibility, and equity of pub
 - The total number of parks is counted and compared across all areas.
 - Helps identify which areas are over- or under-served by public parks.
 
----
-
 ## 2. Park Area per Capita
 
 **Objective:** Assess equity in green space by calculating park area available per resident.
@@ -23,8 +20,6 @@ This project analyzes the spatial distribution, accessibility, and equity of pub
 - Park area is summed per area (in square meters).
 - Divided by population to compute per capita access.
 - Highlights spatial inequities between districts and sub-districts.
-
----
 
 ## 3.  Accessibility (800m Buffer)
 
@@ -34,26 +29,20 @@ This project analyzes the spatial distribution, accessibility, and equity of pub
 - Calculate what proportion of each area's surface is covered by these buffers.
 - Gives a measure of functional access to green spaces.
 
----
-
 ## Data Sources  
 - Berlin administrative boundaries (districts and sub-districts)  
 - Public park polygons from Berlin Open Data Portal  
 - Population estimates for 2024 from [Statistik Berlin Brandenburg](https://www.statistik-berlin-brandenburg.de)
 
-
-
 ##  Key Findings
 
 This project analyzes the distribution, size, and accessibility of public parks across Berlin’s districts and sub-districts using 2024 population data. It highlights spatial inequalities in green space availability and park access to inform urban planning.Interactive maps and detailed reports are included to support decision-making for equitable park development.
 
-
 ## Outputs
 
-- Interactive maps:
-- [Subdistrict map ](https://fyeqaa.github.io/berlin-park-accessibility/district_park_accessibility_map.html)
-- [District map](https://fyeqaa.github.io/berlin-park-accessibility/subdistrict_park_accessibility_map.html)
-- Full results summary: [results_summary.md](Results/report.md)
+- [District map](https://fyeqaa.github.io/berlin-park-accessibility/district_park_accessibility_map.html)
+- [Subdistrict map ](https://fyeqaa.github.io/berlin-park-accessibility/subdistrict_park_accessibility_map.html)
+- [Report](Results/report.md)
 
 
 
